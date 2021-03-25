@@ -13,7 +13,7 @@
     <li> 👯 I’m looking to collaborate on Artificial Vision projects.</li>
     <li> 🤔 I’m looking for help with Computer Science.</li>
     <li> 💬 Ask me about Python, Electronics and Hardware Testing.</li>
-    <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a>/li>
+    <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a></li>
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
   </ul>
 </div>
