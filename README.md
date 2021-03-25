@@ -22,7 +22,7 @@
 <p align="Left"> 
 <a href="https://platzi.com/p/Meluiscruz/">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30">
-  Luis Cruz's Platzi Profile>
+  Luis Cruz's Platzi Profile
   </a>
 </p>
 
