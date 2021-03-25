@@ -13,7 +13,7 @@
     <li> 👯 I’m looking to collaborate on Artificial Vision projects.</li>
     <li> 🤔 I’m looking for help with Computer Science.</li>
     <li> 💬 Ask me about Python, Electronics and Hardware Testing.</li>
-    <li> 📫 How to reach me: info@meluiscruz.com</li>
+    <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a>/li>
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
   </ul>
 </div>
@@ -44,10 +44,15 @@
   <ul>
 </div>
 
-<!--<h2 align="center">Github stats :bar_chart:</h2>
+<!--
+<div>
+<h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="cenet">Top langs And Profile stats 📝</h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpanu&langs_count=10&theme=tokyonight&layout=compact" alt="Juan :: Top Langs" / height="200" width="400"> 
-<align="right"><img src="https://github-readme-stats.vercel.app/api?username=juanpanu&show_icons=true" alt="Juan :: Profile Stats" / height="230" width="400"></p>-->
+<align="right"><img src="https://github-readme-stats.vercel.app/api?username=juanpanu&show_icons=true" alt="Juan :: Profile Stats" / height="230" width="400">
+</p>
+</div>
+-->
 
 <h2 align="left">Also you can reach me at ⚡</h2>
 <p align="left">
