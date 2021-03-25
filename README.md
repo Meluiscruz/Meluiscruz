@@ -21,8 +21,8 @@
 <p align="Left"> Link to my Platzi Profile where you can see all courses I've concluded</p>
 <p align="Left"> 
 <a href="https://platzi.com/p/Meluiscruz/">
-<img src="https://raw.githubusercontent.com/Meluiscruz/Meluiscruz/blob/master/assets/.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30"> Luis Cruz's Platzi Profile
-    </a>
+  <img src="https://raw.githubusercontent.com/Meluiscruz/Meluiscruz/blob/master/assets/.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30"> Luis Cruz's Platzi Profile>
+  </a>
 
 <h2 align="center">My stack: </h2>
 
