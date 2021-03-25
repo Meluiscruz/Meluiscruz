@@ -25,12 +25,7 @@
   </a>
 </p>
 <h2 align="left">My stack: </h2>
-<p align="left">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="left">
-  <a href="https://stackshare.io/opendoor/data-science">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="opendoor :: StackShare" />
-  </a>
-</p>
+<p align="left">Tools that I use on a daily basis, or that I've used or worked (either much or a bit): </p>
 <div align="left">
   - Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
   - Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>
