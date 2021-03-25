@@ -1,6 +1,6 @@
 <h1 align="center">Hi
 <img src="https://raw.githubusercontent.com/Meluiscruz/Meluiscruz/blob/master/assets/hi.gif" width="25"> there!, Luis here.</h1>
-<div align="center">
+<div align="right">
 <p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking for a job in the Technology Industry as a Data Scientist.
 </p>
 <p>I am a passionate Electronics Hobbyist and Machine Learning amateur. My final goal is to understand all the expressions of automation.</p>
