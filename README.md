@@ -1,13 +1,12 @@
 <h1 align="left">Hi
 <img src="https://github.com/Meluiscruz/Meluiscruz/blob/master/assets/hi.gif" width="25"> there!, Luis here.</h1>
 <div align="left">
-<p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking for a job in the Technology Industry as a Data Scientist.
-</p>
-<p>I am a passionate Electronics Hobbyist and Machine Learning amateur. My final goal is to understand all the expressions of automation.</p>
-<p>I celebrate sharing my experience with people, and I love to learn from them, as well.
-</p>
+  <p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking for a job in the Technology Industry  as a Data Scientist.
+  </p>
+  <p>I am a passionate Electronics Hobbyist and Machine Learning amateur. My final goal is to understand all the expressions of automation.</p>
+  <p>I celebrate sharing my experience with people, and I love to learn from them, as well.</p>
+</div>
 <div align="left">
-
 - 🔭 I’m currently working as a Python Developer as freelancer.
 - 🌱 I’m always learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on Artificial Vision projects.
@@ -16,7 +15,7 @@
 - 📫 How to reach me: info@meluiscruz.com.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: Effective work is better than hard work and talent.
-  
+</div>
 <h2 align="center">My progress: </h2>
 <p align="Left"> Link to my Platzi Profile where you can see all courses I've concluded</p>
 <p align="Left"> 
@@ -25,14 +24,14 @@
   Luis Cruz's Platzi Profile
   </a>
 </p>
-
 <h2 align="center">My stack: </h2>
-
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
   <a href="https://stackshare.io/opendoor/data-science">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="opendoor :: StackShare" />
   </a>
+</p>
+<div align="left">
   - Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
   - Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>
   - Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>
@@ -45,7 +44,7 @@
   - C <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>
   - Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
   - VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-</p>
+</div>
 
 <!--<h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="cenet">Top langs And Profile stats 📝</h4>
