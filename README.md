@@ -31,8 +31,8 @@
   <ul>
     <li> Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a></li>
     <li> Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a></li>
-    <li> Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>
-<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a></li>
+    <li> Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a></li>
+    <li> Pandas <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a></li>
     <li> Go <a href="https://golang.org/" title="Golang"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Golang" width="21px" height="21px"></a></li>
     <li> Spark <a href="http://spark.apache.org/" title="Spark"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spark.svg" alt="Spark" width="21px" height="21px"></a></li>
     <li> R <a href="https://www.r-project.org/about.html" title="R Language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg" alt="R" width="21px" height="21px"></a></li>
