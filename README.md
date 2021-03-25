@@ -1,4 +1,4 @@
-<h1 align="center">Hi
+<h1 align="left">Hi
 <img src="https://github.com/Meluiscruz/Meluiscruz/blob/master/assets/hi.gif" width="25"> there!, Luis here.</h1>
 <div align="left">
 <p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking for a job in the Technology Industry as a Data Scientist.
@@ -21,8 +21,10 @@
 <p align="Left"> Link to my Platzi Profile where you can see all courses I've concluded</p>
 <p align="Left"> 
 <a href="https://platzi.com/p/Meluiscruz/">
-  <img src="https://raw.githubusercontent.com/Meluiscruz/Meluiscruz/blob/master/assets/.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30"> Luis Cruz's Platzi Profile>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30">
+  Luis Cruz's Platzi Profile>
   </a>
+</p>
 
 <h2 align="center">My stack: </h2>
 
