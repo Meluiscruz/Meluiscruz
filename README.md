@@ -17,9 +17,9 @@
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
   </ul>
 </div>
-<h2 align="center">My progress: </h2>
-<p align="Left"> Link to my Platzi Profile where you can see all courses I've concluded</p>
-<p align="Left"> 
+<h2 align="left">My progress: </h2>
+<p align="left"> Link to my Platzi Profile where you can see all courses I've concluded</p>
+<p align="left"> 
 <a href="https://platzi.com/p/Meluiscruz/">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Luis Cruz's Platzi Profile" height="30" width="30">
   Luis Cruz's Platzi Profile
