@@ -28,7 +28,7 @@
 <h2 align="left">My stack: </h2>
 <p align="left">Tools that I use on a daily basis, or that I've used or worked (either much or a bit): </p>
 <div align="left">
-    <p> Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
+    <p align="justify"> Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
       Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>
   Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>
   Pandas <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a>
