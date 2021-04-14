@@ -45,7 +45,6 @@
 </div>
 <div>
 <h2 align="left">GitHub stats: </h2>
-<h4 align="left">Top langs And Profile stats 📝</h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meluiscruz&langs_count=10&theme=tokyonight&layout=compact" alt="Luis Cruz :: Top Langs" / height="200" width="400"> 
 <align="right"><img src="https://github-readme-stats.vercel.app/api?username=Meluiscruz&show_icons=true" alt="Luis Cruz :: Profile Stats" / height="230" width="400">
 </p>
