@@ -28,7 +28,7 @@
 <h2 align="left">My stack: </h2>
 <p align="left">Tools that I use on a daily basis, or that I've used or worked (either much or a bit): </p>
 <div align="left">
-    <p align="justify">
+    <p>
       Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>&ensp;
       Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>&ensp;
       Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>&ensp;
@@ -39,7 +39,7 @@
       MySQL <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>&ensp;
       MongoDB <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>&ensp;
       C <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>&ensp;
-      Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>&ensp;&ensp;
+      Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>&ensp;
       VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>&ensp;
   </p>
 </div>
