@@ -8,7 +8,7 @@
 </div>
 <div align="left">
   <ul>
-    <li> 🔭 I’m currently working as a Innovation Supervisor in DHL Supply Chain.</li>
+    <li> 🔭 I’m currently working as Innovation Supervisor in DHL Supply Chain.</li>
     <li> 🌱 I’m always learning Data Science and Machine Learning.</li>
     <li> 👯 I’m looking to collaborate on Artificial Vision projects.</li>
     <li> 🤔 I’m looking for help with Computer Science.</li>
