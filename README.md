@@ -8,10 +8,10 @@
 </div>
 <div align="left">
   <ul>
-    <li> 🔭 I’m currently working as Innovation Supervisor in DHL Supply Chain.</li>
-    <li> 🌱 I’m always learning Data Science and Machine Learning.</li>
-    <li> 👯 I’m looking to collaborate on Artificial Vision projects.</li>
-    <li> 🤔 I’m looking for help with Computer Science.</li>
+    <li> 🔭 I’m currently working as RPA Consultant in HPCg México.</li>
+    <li> 🌱 I’m always learning Data Science, Data Engineering and Machine Learning.</li>
+    <li> 👯 I’m looking to collaborate on ETL projects.</li>
+    <li> 🤔 I’m looking for help to understand Computer Science.</li>
     <li> 💬 Ask me about Python, Electronics and Hardware Testing.</li>
     <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a></li>
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
