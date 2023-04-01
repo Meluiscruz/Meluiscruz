@@ -9,9 +9,9 @@
 <div align="left">
   <ul>
     <li> 🔭 I’m currently working as RPA Consultant in HPCg México.</li>
-    <li> 🌱 I’m always learning Data Science, Data Engineering and Machine Learning.</li>
-    <li> 👯 I’m looking to collaborate on ETL projects.</li>
-    <li> 🤔 I’m looking for help to understand Computer Science.</li>
+    <li> 🌱 I’m learning Computer Vision, Data Engineering and Machine Learning.</li>
+    <li> 👯 I’m looking to collaborate on Industrial Automation projects.</li>
+    <li> 🤔 I’m looking for help to improve my soft-skills.</li>
     <li> 💬 Ask me about Python, Electronics and Hardware Testing.</li>
     <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a></li>
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
@@ -36,11 +36,11 @@
     <li>Spark <a href="http://spark.apache.org/" title="Spark"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spark.svg" alt="Spark" width="21px" height="21px"></a></li>
       <!---R <a href="https://www.r-project.org/about.html" title="R Language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg" alt="R" width="21px" height="21px"></a>&nbsp;--->
     <li>MySQL <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a></li>
-    <li>MongoDB <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a></li>
+    <!--- <li>MongoDB <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a></li> --->
     <li>UiPath <a href="https://www.uipath.com/" title="UiPath"><img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/uipath-3.svg" alt="UiPath" width="21px" height="21px"></a></li>
     <li>C <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a></li>
     <li>C# <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C# language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="21px" height="21px"></a></li>
-    <li>VB.NET <a href="https://en.wikipedia.org/wiki/Visual_Basic_.NET" title="Visual Basic"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a></li>
+    <li>VB.NET <a href="https://en.wikipedia.org/wiki/Visual_Basic_.NET" title="Visual Basic"><img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/VB.NET_Logo.png" alt="C" width="21px" height="21px"></a></li>
     <li>Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a></li>
     <li>VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a></li>
     <li>ElasticSearch <a href="https://www.elastic.co/" title="ElasticSearch"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/elasticsearch.svg" alt="ElasticSearch" width="21px" height="21px"></a></li>
