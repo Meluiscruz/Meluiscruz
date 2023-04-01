@@ -28,22 +28,23 @@
 <h2 align="left">My stack: </h2>
 <p align="left">Tools that I use on a daily basis, or that I've used or worked (either much or a bit): </p>
 <div align="left">
-    <p>
-      Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>&nbsp;
-      Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>&nbsp;
-      Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>&nbsp;
-      Pandas <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a>&nbsp;
-      Spark <a href="http://spark.apache.org/" title="Spark"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spark.svg" alt="Spark" width="21px" height="21px"></a>&nbsp;
+  <ul>
+    <li>Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a></li>
+    <li>Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a></li>
+    <li>Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a></li>
+    <li>Pandas <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a></li>
+    <li>Spark <a href="http://spark.apache.org/" title="Spark"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spark.svg" alt="Spark" width="21px" height="21px"></a></li>
       <!---R <a href="https://www.r-project.org/about.html" title="R Language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg" alt="R" width="21px" height="21px"></a>&nbsp;--->
-      MySQL <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>&nbsp;
-      MongoDB <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>&nbsp;
-      UiPath <a href="https://www.uipath.com/" title="UiPath"><img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/uipath-3.svg" alt="UiPath" width="21px" height="21px"></a>&nbsp;
-      C <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>&nbsp;
-      C# <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C# language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="21px" height="21px"></a>&nbsp;
-      <!---VB.NET <a href="https://en.wikipedia.org/wiki/Visual_Basic_.NET" title="Visual Basic"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>&nbsp;--->
-      Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>&nbsp;
-      VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>&nbsp;
-  </p>
+    <li>MySQL <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a></li>
+    <li>MongoDB <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a></li>
+    <li>UiPath <a href="https://www.uipath.com/" title="UiPath"><img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/uipath-3.svg" alt="UiPath" width="21px" height="21px"></a></li>
+    <li>C <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a></li>
+    <li>C# <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C# language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="21px" height="21px"></a></li>
+    <li>VB.NET <a href="https://en.wikipedia.org/wiki/Visual_Basic_.NET" title="Visual Basic"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a></li>
+    <li>Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a></li>
+    <li>VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a></li>
+    <li>ElasticSearch <a href="https://www.elastic.co/" title="ElasticSearch"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/elasticsearch.svg" alt="ElasticSearch" width="21px" height="21px"></a></li>
+  </ul>
 </div>
 <div>
 <h2 align="left">GitHub stats: </h2>
