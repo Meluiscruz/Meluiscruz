@@ -1,7 +1,7 @@
 <h1 align="left">Hi
 <img src="https://github.com/Meluiscruz/Meluiscruz/blob/master/assets/hi.gif" width="25"> there!, Luis here.</h1>
 <div align="left">
-  <p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking to becoming as a Data Scientist.
+  <p>I am a Mechanical Engineer with plenty of Electrotechnical, Mechanical and Automation knowledge. Currently, I am looking to become a Data Engineer.
   </p>
   <p>I am a passionate Electronics Hobbyist and Machine Learning amateur. My final goal is to understand all the expressions of automation.</p>
   <p>I celebrate sharing my experience with people, and I love to learn from them, as well.</p>
@@ -11,7 +11,7 @@
     <li> 🔭 I’m currently working as RPA Consultant in HPCg México.</li>
     <li> 🌱 I’m learning Computer Vision, Data Engineering and Machine Learning.</li>
     <li> 👯 I’m looking to collaborate on Industrial Automation projects.</li>
-    <li> 🤔 I’m looking for help to improve my soft-skills.</li>
+    <li> 🤔 I’m seeking help to improve my soft skills.</li>
     <li> 💬 Ask me about Python, Electronics and Hardware Testing.</li>
     <li> 📫 How to reach me: <a href = "mailto: info@meluiscruz.com">info@meluiscruz.com.</a></li>
     <li> ⚡ Fun fact: Effective work is better than hard work and talent.</li>
