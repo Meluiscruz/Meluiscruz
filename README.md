@@ -8,7 +8,7 @@
 </div>
 <div align="left">
   <ul>
-    <li> 🔭 I’m currently working as RPA Consultant in HPCg México.</li>
+    <li> 🔭 I’m currently working as RPA Developer in TCS México.</li>
     <li> 🌱 I’m learning Computer Vision, Data Engineering and Machine Learning.</li>
     <li> 👯 I’m looking to collaborate on Industrial Automation projects.</li>
     <li> 🤔 I’m seeking help to improve my soft skills.</li>
